@@ -114,6 +114,7 @@ footer {
 
 img {
     height: 300px;
+    cursor: pointer;
 }
 
 h4, h3 {
